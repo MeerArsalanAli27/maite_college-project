@@ -5,3 +5,4 @@ langchain-community
 openai
 tiktoken
 python-dotenv
+google-generativeai
