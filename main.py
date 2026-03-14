@@ -9,7 +9,7 @@ from langchain_core.chat_history import BaseChatMessageHistory
 
 # from langchain import ChatMessageHistory
 from langchain_core.runnables import RunnableWithMessageHistory
-import google.generativeai as genai
+# import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # configure Gemini API key (env var recommended)
